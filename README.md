@@ -1,2 +1,2 @@
 # Nodetifacts
-Artifacts MMORPG controller and automation application written in NodJS.
+Artifacts MMORPG controller and automation application written in NodeJS.
