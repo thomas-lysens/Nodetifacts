@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "ES2022",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "sourceRoot": "./src",
+        "outDir": "./build",
+    },
+    "include": [ "src/**/*" ],
+    "extends": "ts-node/node16/tsconfig.json",
+}

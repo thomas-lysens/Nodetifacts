@@ -1,0 +1,32 @@
+{
+  "name": "nodetifacts",
+  "version": "1.0.0",
+  "description": "Artifacts MMORPF controller and automation application in NodeJS.",
+  "main": "main.ts",
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --build --clean",
+    "program": "node ./build/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomas-lysens/Nodetifacts.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "TypeScript",
+    "Artifacts",
+    "Automation",
+    "Controller"
+  ],
+  "author": "thomas-lysens",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/thomas-lysens/Nodetifacts/issues"
+  },
+  "homepage": "https://github.com/thomas-lysens/Nodetifacts#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  }
+}
